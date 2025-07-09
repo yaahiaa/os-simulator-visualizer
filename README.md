@@ -94,8 +94,3 @@ OS_Simulator/
 
 ## 🧑‍💻 Team
 Developed by Team 48 – German University in Cairo (Spring 2025)
-
----
-
-## 📜 License
-MIT License — for educational use and open source contributions
